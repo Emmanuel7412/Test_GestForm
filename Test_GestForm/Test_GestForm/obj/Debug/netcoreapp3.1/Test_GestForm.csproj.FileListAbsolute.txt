@@ -1,0 +1,13 @@
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\bin\Debug\netcoreapp3.1\Test_GestForm.exe
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\bin\Debug\netcoreapp3.1\Test_GestForm.deps.json
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\bin\Debug\netcoreapp3.1\Test_GestForm.runtimeconfig.json
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\bin\Debug\netcoreapp3.1\Test_GestForm.runtimeconfig.dev.json
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\bin\Debug\netcoreapp3.1\Test_GestForm.dll
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\bin\Debug\netcoreapp3.1\Test_GestForm.pdb
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\obj\Debug\netcoreapp3.1\Test_GestForm.csprojAssemblyReference.cache
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\obj\Debug\netcoreapp3.1\Test_GestForm.AssemblyInfoInputs.cache
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\obj\Debug\netcoreapp3.1\Test_GestForm.AssemblyInfo.cs
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\obj\Debug\netcoreapp3.1\Test_GestForm.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\obj\Debug\netcoreapp3.1\Test_GestForm.dll
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\obj\Debug\netcoreapp3.1\Test_GestForm.pdb
+C:\Users\Emmanuel Poirier\Dev_Projects\Visual_Studio_2019\Test_GestForm\Test_GestForm\Test_GestForm\obj\Debug\netcoreapp3.1\Test_GestForm.genruntimeconfig.cache
